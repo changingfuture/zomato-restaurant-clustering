@@ -1,0 +1,106 @@
+Restaurant,Cost,Collections,Cuisines,avg_rating,rating_std,median_rl,avg_pic,Clusters
+Beyond Flavours,800,"Food Hygiene Rated Restaurants in Hyderabad, Corporate Favorites, Great Buffets, Top-Rated, Gold Curated, Live Sports Screenings","Chinese, Continental, Kebab, European, South Indian, North Indian",4.28,1.2397458195007949,32.0,0.39,1
+Paradise,800,Hyderabad's Hottest,"Biryani, North Indian, Chinese",4.7,0.7719841941125453,28.0,0.02,1
+Flechazo,1300,"Great Buffets, Hyderabad's Hottest","Asian, Mediterranean, North Indian, Desserts",4.66,0.878704280245187,30.5,0.55,1
+Shah Ghouse Hotel & Restaurant,800,Late Night Restaurants,"Biryani, North Indian, Chinese, Seafood, Beverages",3.21,1.6036259419254109,32.5,0.3,0
+Over The Moon Brew Company,1200,"Best Bars & Pubs, Food Hygiene Rated Restaurants in Hyderabad, Top-Rated, Gold Curated, Hyderabad's Hottest","Asian, Continental, North Indian, Chinese, Mediterranean",4.34,1.0657192762437846,36.0,0.44,1
+The Fisherman's Wharf,1500,"Sunday Brunches, Corporate Favorites, Great Buffets, Hyderabad's Hottest, Food Hygiene Rated Restaurants in Hyderabad, Top-Rated, Gold Curated","Seafood, Goan, North Indian, Continental, Asian",4.22,1.0878576852853243,52.5,1.13,1
+eat.fit,500,Food Hygiene Rated Restaurants in Hyderabad,"Healthy Food, North Indian, Continental, South Indian",3.2,1.5954480704349314,41.5,0.58,0
+Shah Ghouse Spl Shawarma,300,,Lebanese,3.43,1.6283783840422843,28.5,0.09,0
+Hyper Local,1000,"Great Buffets, Live Sports Screenings, Best Bars & Pubs, Trending This Week","American, Chinese, North Indian, Kebab, South Indian",3.64,1.487455966583634,40.0,1.31,1
+Cream Stone,350,Frozen Delights,"Ice Cream, Desserts",3.845,1.520391695942499,34.0,0.43,0
+Sardarji's Chaats & More,400,"Street Food, Veggie Friendly, Pocket Friendly","Street Food, North Indian, Fast Food",3.25,1.5000000000000002,35.0,0.25,0
+Barbeque Nation,1600,Barbecue & Grill,"Mediterranean, North Indian, Kebab, BBQ",4.12,1.110373492537215,48.5,0.85,1
+Absolute Sizzlers,750,Great Buffets,"Continental, American, Chinese",3.62,1.581330471661778,34.0,0.45,0
+The Lal Street - Bar Exchange,1300,"Corporate Favorites, Happy Hours, Live Sports Screenings, Rooftops, Trending This Week","North Indian, Italian, Finger Food",3.45,1.2978225742925862,45.5,0.62,1
+AB's - Absolute Barbecues,1500,"Barbecue & Grill, Great Buffets, Corporate Favorites, Hyderabad's Hottest","European, Mediterranean, North Indian",4.88,0.4980771105770752,29.5,0.24,1
+KFC,500,,"Burger, Fast Food",2.85,1.6229104669815844,15.0,0.16,0
+NorFest - The Dhaba,550,,North Indian,4.03,1.1499231419200293,41.5,0.64,1
+Hotel Zara Hi-Fi,400,,"Chinese, North Indian",2.4,1.7349642676726835,26.0,0.05,0
+10 Downing Street,1900,Trending This Week,"North Indian, Chinese, Continental",3.8,1.0917505172516258,50.5,1.05,1
+Pakwaan Grand,400,Trending This Week,"North Indian, Chinese, Biryani",2.71,1.5061825449081059,28.0,0.17,0
+13 Dhaba,450,Veggie Friendly,North Indian,3.48,1.5665699518825882,32.0,0.41,0
+Jonathan's Kitchen - Holiday Inn Express & Suites,1900,"Great Italian, Sunday Brunches","North Indian, Japanese, Italian, Salad, Sushi",3.535,1.4271094611631634,60.0,1.63,1
+B-Dubs,1600,Hyderabad's Hottest,American,4.81,0.6145541210314739,34.0,0.16,1
+Amul,150,,"Ice Cream, Desserts",3.94,1.5163752633810468,5.0,0.13,0
+SKYHY,1400,"Live Sports Screenings, Gigs and Events","North Indian, Chinese, Continental",3.37,1.4815702835338276,35.0,0.57,1
+Tiki Shack,1000,,Continental,3.48,1.4247452368402536,45.0,0.7,1
+Mustang Terrace Lounge,1300,"Rooftops, Live Sports Screenings, Best Bars & Pubs","Mexican, Italian, North Indian, Chinese, Salad",3.31,1.5615001851690022,37.0,0.42,0
+"3B's - Buddies, Bar & Barbecue",1100,"Barbecue & Grill, Live Sports Screenings","North Indian, Mediterranean, European",4.76,0.8302366706505617,27.0,0.13,1
+Behrouz Biryani,600,,"Mughlai, Biryani",2.825,1.6702612751521029,39.0,0.36,0
+Hunger Maggi Point,200,,Fast Food,3.12,1.5781334070683157,26.5,0.3,0
+Pot Pourri,900,,"Andhra, South Indian, North Indian",3.32,1.3624102231565993,36.0,0.76,0
+Pista House,1000,Haleem,"Bakery, North Indian, Mughlai, Juices, Chinese",3.23,1.448475339134501,39.5,1.46,1
+Marsala Food Company,700,"Mandi, Great Buffets, The ‘Must Visit’ Eateries","Arabian, North Indian, Chinese",3.46,1.540169215417972,58.5,2.76,1
+Club Rogue,900,,"North Indian, Fast Food",2.88,1.5260697523012798,49.5,0.12,0
+Mazzo - Marriott Executive Apartments,1700,"Top-Rated, Gold Curated, Fancy and Fun","Italian, North Indian, South Indian, Asian",4.19,1.160764290187176,49.5,1.46,1
+Green Bawarchi Restaurant,700,,"North Indian, Chinese, Biryani",3.49,1.6544705277739848,3.0,0.06,0
+Banana Leaf Multicuisine Restaurant,700,Great Buffets,"Biryani, South Indian, North Indian, Chinese, Andhra",3.69,1.2528351685660648,28.5,0.42,0
+Kritunga Restaurant,500,,"Andhra, Biryani, Hyderabadi, North Indian",3.47,1.6542262984442746,6.0,0.14,0
+The Glass Onion,1200,Fancy and Fun,"North Indian, Continental, Italian, Asian",3.83,1.3337499349161706,51.0,1.58,1
+Deli 9 Bistro,700,,"Cafe, Continental, Desserts",3.82,1.1492641475344478,42.0,1.35,1
+Frio Bistro,1200,,"European, Italian, Continental, Spanish",3.61,1.188284562729064,52.0,1.01,1
+Karachi Bakery,500,,"Bakery, Fast Food, Desserts",3.8,1.4770978917519928,13.5,0.39,0
+Karachi Cafe,600,,"Cafe, Desserts, Fast Food",3.715,1.193955737466973,43.0,1.39,1
+The Foodie Monster Kitchen,500,"Great Breakfasts, Late Night Restaurants, Best shawarmas","American, Wraps, Desserts",3.58,1.3793571918202563,30.0,0.24,0
+La La Land - Bar & Kitchen,1000,"Great Buffets, Trending This Week","Finger Food, North Indian, Kebab, Chinese",3.19,1.4333333333333333,45.0,0.77,1
+Owm Nom Nom,900,,"Chinese, Biryani, Andhra, North Indian",3.29,1.67751018001096,6.0,0.09,0
+Ulavacharu,1400,"Function Venues, Regional Favorites","Andhra, North Indian, Chinese",3.225,1.4913470962911892,41.5,1.02,1
+Shanghai Chef 2,800,Pan-Asian Delicacies,"Chinese, Thai, Indonesian, Asian",3.06,1.5362291495737217,35.5,1.27,0
+Udipi's Upahar,500,,"South Indian, North Indian, Chinese",4.03,1.2984450685183397,5.0,0.17,0
+Mathura Vilas,500,"Veggie Friendly, Terrific Thalis","South Indian, North Indian, Chinese",2.82,1.5464524407543714,42.5,0.31,0
+Gal Punjab Di,800,,"North Indian, Continental",3.61,1.2135181344447488,41.0,0.97,1
+Hitech Bawarchi Food Zone,500,,"Biryani, North Indian, Chinese",3.05,1.7602513594611564,4.5,0.01,0
+Biryanis And More,500,,"North Indian, Biryani, Chinese",3.74,1.3455500921574977,28.5,0.8,0
+Diners Pavilion,1200,"Great Buffets, Live Sports Screenings","Chinese, Continental, Italian",3.32,1.4694189052791988,42.5,0.78,1
+Asian Meal Box,200,,Asian,2.58,1.5516690264604651,29.0,0.17,0
+Cafe Eclat,700,Sneak Peek Hyderabad,"Cafe, Bakery",3.59,1.2500101009692892,50.0,1.31,1
+Feast - Sheraton Hyderabad Hotel,2500,"Sunday Brunches, Great Breakfasts, Function Venues, Ramzan Mubarak","Modern Indian, Asian, Continental, Italian",4.22,1.2274635093014643,43.0,1.58,1
+Being Hungry,450,,"North Indian, Chinese",3.66,1.5905021124465597,5.0,0.03,0
+Tempteys,350,Best Milkshakes,"Desserts, Beverages",3.85,1.4310764472870756,20.0,1.13,0
+KS Bakers,200,,"Bakery, Desserts, Fast Food",3.965,1.202386095741432,33.0,0.68,0
+PourHouse7,1200,"Happy Hours, Top Drinking Destinations, Corporate Favorites","North Indian, Continental, Chinese, Italian",3.86,1.3485495387956123,42.0,3.56,1
+Prism Club & Kitchen,1200,"Sneak Peek Hyderabad, Best Bars & Pubs, Gigs and Events","Kebab, Continental, Italian, North Indian",4.215,1.2816793749616244,40.0,0.51,1
+Shree Santosh Dhaba Family Restaurant,500,,"North Indian, Chinese, Fast Food",2.83,1.6456554372595191,5.5,0.02,0
+Dine O China,850,,"Chinese, Asian, Momos",3.37,1.5417096636100733,33.0,0.77,0
+Hyderabad Chefs,600,,"North Indian, Chinese",3.81,1.5155423738281573,2.5,0.02,0
+Komatose - Holiday Inn Express & Suites,1500,"Happy Hours, Top-Rated, Gold Curated","North Indian, Chinese, Japanese, Sushi",3.69,1.3758009604693124,44.5,0.97,1
+Aromas@11SIX,750,,"North Indian, Chinese, Mughlai, Biryani",3.46,1.533596815306811,29.0,0.05,0
+Yum Yum Tree - The Arabian Food Court,1200,Food Hygiene Rated Restaurants in Hyderabad,"North Indian, Hyderabadi",3.56,1.4093482984211625,35.0,1.29,1
+The Tilt Bar Republic,1500,"Gigs and Events, Corporate Favorites","North Indian, Continental, Italian",3.845,1.2054065913645282,49.0,1.58,1
+The Indi Grill,1500,"Food Hygiene Rated Restaurants in Hyderabad, Great Buffets, Hyderabad's Hottest","BBQ, Asian, Modern Indian",4.6,0.7247430753394787,32.0,0.75,1
+Urban Asia - Kitchen & Bar,1100,,"Asian, Thai, Chinese, Sushi, Momos",3.65,1.3132964154171272,57.5,1.78,1
+Eat India Company,1300,,"North Indian, Mughlai, Beverages",3.26,1.5480192622715117,46.0,0.78,1
+Labonel,1000,Best Bakeries,"Bakery, Desserts",3.915,1.2930564370880915,51.0,0.64,1
+Driven Cafe,600,,"Cafe, Fast Food, Beverages",3.745,1.0528820475535738,47.0,2.12,1
+Faasos,600,,"Fast Food, Biryani, Desserts",3.03,1.5728440430755952,35.5,0.48,0
+Royal Spicy Restaurant,700,,"North Indian, South Indian",3.74,1.6794660045996943,5.0,0.06,0
+The Old Madras Baking Company,350,,Bakery,3.6161616161616164,1.192725148446253,50.0,1.34,1
+Squeeze @ The Lime,650,Veggie Friendly,"Italian, North Indian, Chinese, Salad",3.815,1.391995515492602,31.5,0.13,0
+Khaan Saab,1100,New on Gold,"North Indian, Mughlai",3.8,1.477097891751993,35.0,0.74,1
+Olive Garden,700,,"North Indian, Chinese, Continental, Biryani",3.76,1.2642720586898366,33.0,0.33,0
+Tandoori Food Works,500,Brilliant Biryanis,"North Indian, Burger, Kebab",3.27,1.5625348480962442,26.0,0.23,0
+Delhi-39,600,,"North Indian, Chinese",2.975,1.6055066225810206,8.0,0.04,0
+Al Saba Restaurant,750,,"North Indian, Chinese, Seafood, Biryani, Hyderabadi",3.155,1.490195228210659,17.0,0.13,0
+GD's,500,,"Burger, American",3.96,1.3552740227598536,26.0,0.36,0
+T Grill,700,,"North Indian, Andhra, Biryani, Chinese",3.17,1.4288159963813225,39.5,0.55,0
+Momos Delight,200,,Momos,3.725,1.5065094447333236,25.0,0.23,0
+The Chocolate Room,600,,"Cafe, Desserts",2.83,1.463736742903331,29.5,0.69,0
+American Wild Wings,600,Food Hygiene Rated Restaurants in Hyderabad,"American, Fast Food, Salad, Burger",3.9740259740259742,1.423247084126424,45.0,2.831168831168831,1
+Domino's Pizza,400,,"Fast Food, Pizza",3.09,1.8537158968576133,6.0,0.04,0
+Mohammedia Shawarma,150,,"Street Food, Arabian",2.99,1.783736856074116,4.5,0.04,0
+Arena Eleven,1600,New on Gold,Continental,4.117647058823529,1.1589379857878335,39.0,3.2941176470588234,1
+Cascade - Radisson Hyderabad Hitec City,1800,,"North Indian, Italian, Continental, Asian",4.26,1.0432079506420706,45.0,1.55,1
+Collage - Hyatt Hyderabad Gachibowli,2800,Sunday Brunches,"Continental, Italian, North Indian, Chinese, Asian",3.41,1.4449144534462164,55.5,1.73,1
+Zing's Northeast Kitchen,550,,"North Eastern, Momos",3.65,1.402558988838515,62.5,1.21,1
+Dunkin' Donuts,550,,"Desserts, Cafe, Beverages, Burger, Fast Food",3.095,1.4047088918018105,38.0,0.98,0
+Desi Bytes,400,,"North Indian, Chinese",2.9,1.6236882817719773,9.0,0.1,0
+Hyderabadi Daawat,600,Food Hygiene Rated Restaurants in Hyderabad,"Hyderabadi, Chinese, Mughlai",3.83,1.3930201184853903,42.0,2.34,1
+Zega - Sheraton Hyderabad Hotel,1750,,"Asian, Sushi",4.45,0.8087276451565163,47.0,0.83,1
+Triptify,400,,North Indian,3.55,1.5978204852330264,15.5,0.14,0
+Chinese Pavilion,1000,,"Chinese, Seafood",3.745,1.122530960631268,62.0,2.01,1
+IndiBlaze,600,,"Fast Food, Salad",,,,,0
+Sweet Basket,200,,"Bakery, Mithai",,,,,0
+Angaara Counts 3,500,,"North Indian, Biryani, Chinese",,,,,0
+Wich Please,250,,Fast Food,,,,,0
+Republic Of Noodles - Lemon Tree Hotel,1700,Pan-Asian Delicacies,"Thai, Asian, Chinese, Malaysian",,,,,1
