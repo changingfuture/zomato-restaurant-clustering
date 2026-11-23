@@ -2,6 +2,12 @@
 
 ## 📌 Project Overview
 
+### 🌐 Live Dashboard
+
+**Explore the interactive restaurant clustering dashboard here:**
+
+[Launch Zomato Restaurant Analytics](https://zomato-restaurant-clustering-ssjg7mgqttcfaznvxandz.streamlit.app/)
+
 This project uses unsupervised machine learning to identify meaningful patterns among restaurants using their pricing, ratings, review characteristics, customer engagement, and cuisine information.
 
 The objective is to group similar restaurants into clusters and understand how they differ in terms of affordability, customer ratings, review behavior, and engagement.
