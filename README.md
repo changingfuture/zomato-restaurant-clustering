@@ -6,7 +6,7 @@
 
 **Explore the interactive restaurant clustering dashboard here:**
 
-[Launch Zomato Restaurant Analytics](https://zomato-restaurant-clustering-ssjg7mgqttcfaznvxandz.streamlit.app/)
+[Launch Zomato Restaurant Analytics](https://zomato-restaurant-clustering-ssjg7mgqttycfaznvxandz.streamlit.app/)
 
 This project uses unsupervised machine learning to identify meaningful patterns among restaurants using their pricing, ratings, review characteristics, customer engagement, and cuisine information.
 
