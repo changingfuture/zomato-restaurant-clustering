@@ -155,6 +155,20 @@ Allows users to search and filter restaurants based on restaurant name, cluster,
 ### Model Insights
 Displays model configuration, evaluation metrics, cluster distribution, key findings, and limitations.
 
+### Dashboard Preview
+
+#### Overview
+![Dashboard Overview](5. visualizations/dashboard_screenshots/1_Overview.png)
+
+#### Cluster Analysis
+![Cluster Analysis](5. visualizations/dashboard_screenshots/2_Cluster_Analysis.png)
+
+#### Restaurant Explorer
+![Restaurant Explorer](5. visualizations/dashboard_screenshots/3_Restaurant_Explorer.png)
+
+#### Model Insights
+![Model Insights](5. visualizations/dashboard_screenshots/4_Model_Insights.png)
+
 ---
 
 ## 🛠️ Tech Stack
